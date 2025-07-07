@@ -76,6 +76,13 @@ These strategies follow a **data-driven ROI optimization approach**:
 - Reporting and dashboard creation
 - Insight generation and action planning
 
+## AI-Enhanced Framework Documents
+
+This repository includes comprehensive AI-enhanced frameworks that provide strategic guidance for building intelligent performance marketing systems:
+
+### **[Intelligent Performance Optimization](intelligent-performance-optimization.md)**
+Complete framework for building value-driven performance intelligence systems that maximize ROI, optimize campaign effectiveness, and drive sustainable growth through strategic AI integration and foundational performance principles.
+
 ## Contributing
 
 Found an issue or want to improve a strategy?
